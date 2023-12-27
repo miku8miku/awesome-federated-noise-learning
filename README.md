@@ -10,15 +10,27 @@ If you find some overlooked papers, please open issues or pull requests(recommen
 
 <!-- update-time-start -->
 
-**Last Update: Dec 26, 2023 21:39:48**
+**Last Update: Dec 27, 2023 11:05:49**
 
 <!-- update-time-end -->
+<!-- main-start -->
 
 ## IID
 
 ### 2022
 
-- **[RoFL]** Robust Federated Learning with Noisy Labels (_IEEE Intelligent Systems_) [[PDF]](https://arxiv.org/pdf/2012.01700.pdf)
+- **[RoFL]** Robust Federated Learning with Noisy Labels (_IEEE Intelligent Systems_) [[PDF]](https://arxiv.org/pdf/2012.01700.pdf) [[CODE]](https://github.com/jangsoohyuk/Robust-Federated-Learning-with-Noisy-Labels)
+
+
+## Non-IID
+
+### 2023
+
+- **[FedNoRo]** FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance and Label Noise Heterogeneity (_IJCAI_) [[PDF]](https://arxiv.org/pdf/2305.05230.pdf) [[CODE]](https://github.com/wnn2000/FedNoRo)
+
+### 2022
+
+- **[FedCorr]** FedCorr: Multi-Stage Federated Learning for Label Noise Correction (_CVPR_) [[PDF]](https://arxiv.org/pdf/2204.04677.pdf) [[CODE]](https://github.com/Xu-Jingyi/FedCorr)
 
 
 ## Client Selection
@@ -33,8 +45,9 @@ If you find some overlooked papers, please open issues or pull requests(recommen
 
 [WIP]
 
-## Contributing
 
+
+<!-- main-end -->
 You can contribute to this project by opening an issue or creating a pull request on [GitHub](https://github.com/beiyuouo/awesome-asynchronous-federated-learning).
 
 Add paper to the `papers.yaml` file with the following format:
