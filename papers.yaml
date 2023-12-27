@@ -28,13 +28,71 @@ non-iid:
       links:
         PDF: https://arxiv.org/pdf/2204.04677.pdf
         CODE: https://github.com/Xu-Jingyi/FedCorr
+    - title: 'Towards Federated Learning against Noisy Labels via Local Self-Regularization '
+      abbr: FedCorr
+      year: 2022
+      conf: CIKM
+      links:
+        PDF: https://dl.acm.org/doi/pdf/10.1145/3511808.3557475
+        CODE: https://github.com/Sprinter1999/FedLSR
 
-client_selection:
-  title: Client Selection
-  list: null
-ungrouped:
-  title: Ungrouped Papers
-  list: null
-blog:
-  title: Blog
-  list: null
+# Center Learning:
+Robust Regularizaiton:
+  title: Robust Regularizaiton
+  split_by_year: true
+  list:
+    - title: 'Mixup: Beyond empirical risk minimization'
+      abbr: Mixup
+      year: 2018
+      conf: ICLR
+      links:
+        PDF: https://arxiv.org/pdf/1710.09412.pdf
+        CODE: https://github.com/facebookresearch/mixup-cifar10
+
+RobustLoss Function:
+  title: RobustLoss Function
+  split_by_year: true
+  list:
+    - title: 'Symmetric Cross Entropy for Robust Learning with Noisy Labels'
+      abbr: SCE
+      year: 2019
+      conf: ICCV
+      links:
+        PDF: https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.pdf
+  
+    - title: 'Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels'
+      abbr: GCE
+      year: 2018
+      conf: NeurIPS
+      links:
+        PDF: https://proceedings.neurips.cc/paper/2018/hash/f2925f97bc13ad2852a7a551802feea0-Abstract.html
+    
+    - title: 'Robust Loss Functions under Label Noise for Deep Neural Networks'
+      abbr: MAE
+      year: 2017
+      conf: AAAI
+      links:
+        PDF: https://arxiv.org/pdf/1712.09482.pdf
+Loss Adjustment:
+  title: Loss Adjustment
+  split_by_year: true
+  list:
+    - title: 'Unsupervised Label Noise Modeling and Loss Correction'
+      abbr: 
+      year: 2019
+      conf: ICML
+      links:
+        PDF: https://proceedings.mlr.press/v97/arazo19a/arazo19a.pdf
+
+Sample Selection:
+  title: Sample Selection
+  split_by_year: true
+  list:
+    - title: 'Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels'
+      abbr: Co-teaching
+      year: 2018
+      conf: NeurIPS
+      links:
+        PDF: https://arxiv.org/pdf/1804.06872.pdf
+        CODE: ttps://github.com/bhanML/Co-teaching
+
