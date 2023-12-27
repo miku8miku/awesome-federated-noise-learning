@@ -1,0 +1,40 @@
+iid:
+  title: IID
+  split_by_year: true
+  list:
+    - title: Robust Federated Learning with Noisy Labels
+      abbr: RoFL
+      year: 2022
+      conf: IEEE Intelligent Systems
+      links:
+        PDF: https://arxiv.org/pdf/2012.01700.pdf
+        CODE: https://github.com/jangsoohyuk/Robust-Federated-Learning-with-Noisy-Labels
+
+non-iid:
+  title: Non-IID
+  split_by_year: true
+  list:
+    - title: 'FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance and Label Noise Heterogeneity'
+      abbr: FedNoRo
+      year: 2023
+      conf: IJCAI
+      links:
+        PDF: https://arxiv.org/pdf/2305.05230.pdf
+        CODE: https://github.com/wnn2000/FedNoRo
+    - title: 'FedCorr: Multi-Stage Federated Learning for Label Noise Correction'
+      abbr: FedCorr
+      year: 2022
+      conf: CVPR
+      links:
+        PDF: https://arxiv.org/pdf/2204.04677.pdf
+        CODE: https://github.com/Xu-Jingyi/FedCorr
+
+client_selection:
+  title: Client Selection
+  list: null
+ungrouped:
+  title: Ungrouped Papers
+  list: null
+blog:
+  title: Blog
+  list: null
