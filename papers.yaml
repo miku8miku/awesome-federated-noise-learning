@@ -29,7 +29,7 @@ non-iid:
         PDF: https://arxiv.org/pdf/2204.04677.pdf
         CODE: https://github.com/Xu-Jingyi/FedCorr
     - title: 'Towards Federated Learning against Noisy Labels via Local Self-Regularization '
-      abbr: FedCorr
+      abbr: FEDLSR
       year: 2022
       conf: CIKM
       links:

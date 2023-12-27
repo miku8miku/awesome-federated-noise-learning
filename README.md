@@ -10,7 +10,7 @@ If you find some overlooked papers, please open issues or pull requests(recommen
 
 <!-- update-time-start -->
 
-**Last Update: Dec 27, 2023 15:57:01**
+**Last Update: Dec 27, 2023 16:03:46**
 
 <!-- update-time-end -->
 <!-- main-start -->
@@ -31,7 +31,7 @@ If you find some overlooked papers, please open issues or pull requests(recommen
 ### 2022
 
 - **[FedCorr]** FedCorr: Multi-Stage Federated Learning for Label Noise Correction (_CVPR_) [[PDF]](https://arxiv.org/pdf/2204.04677.pdf) [[CODE]](https://github.com/Xu-Jingyi/FedCorr)
-- **[FedCorr]** Towards Federated Learning against Noisy Labels via Local Self-Regularization  (_CIKM_) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557475) [[CODE]](https://github.com/Sprinter1999/FedLSR)
+- **[FEDLSR]** Towards Federated Learning against Noisy Labels via Local Self-Regularization  (_CIKM_) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557475) [[CODE]](https://github.com/Sprinter1999/FedLSR)
 
 
 ## Robust Regularizaiton
